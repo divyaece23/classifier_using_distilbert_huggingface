@@ -8,6 +8,6 @@ This repository contains a text classification pipeline using the **DistilBERT**
 - **Task:** Text classification (Binary or Multi-class)
 - **Library:** Hugging Face Transformers + Datasets
 
-DistilBERT is a smaller, faster, and lighter version of BERT while retaining ~97% of its performance.
+DistilBERT is a smaller, faster, and lighter version of BERT.
 
 
